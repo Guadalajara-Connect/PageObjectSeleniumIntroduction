@@ -1,0 +1,12 @@
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriverPageObjects.exe.config
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriverPageObjects.exe
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriverPageObjects.pdb
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\nunit.framework.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\TechTalk.SpecFlow.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriver.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriver.Support.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\nunit.framework.xml
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriver.xml
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Release\WebDriver.Support.xml
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\obj\Release\WebDriverPageObjects.exe
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\obj\Release\WebDriverPageObjects.pdb

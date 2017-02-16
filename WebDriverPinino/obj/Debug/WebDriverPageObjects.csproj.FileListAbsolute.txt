@@ -1,0 +1,16 @@
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriverPageObjects.exe.config
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriverPageObjects.exe
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriverPageObjects.pdb
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\nunit.framework.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\TechTalk.SpecFlow.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriver.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriver.Support.dll
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\nunit.framework.xml
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriver.xml
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\bin\Debug\WebDriver.Support.xml
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\obj\Debug\WebDriverPageObjects.exe
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\obj\Debug\WebDriverPageObjects.pdb
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriverPinino\WebDriverPinino\obj\Debug\WebDriverPageObjects.csprojResolveAssemblyReference.cache
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriver\WebDriverPinino\bin\Debug\WebDriverPageObjects.exe.config
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriver\WebDriverPinino\obj\Debug\WebDriverPageObjects.exe
+D:\Users\Luis_Romo\workspace\Microsoft Projects\WebDriver\WebDriverPinino\obj\Debug\WebDriverPageObjects.pdb
